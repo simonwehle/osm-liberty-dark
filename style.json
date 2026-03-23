@@ -6,7 +6,7 @@
       "maxzoom": 6,
       "tileSize": 256,
       "tiles": [
-        "ttps://tiles.openfreemap.org/natural_earth/ne2sr/{z}/{x}/{y}.png"
+        "https://tiles.openfreemap.org/natural_earth/ne2sr/{z}/{x}/{y}.png"
       ],
       "type": "raster"
     },
