@@ -548,7 +548,7 @@
         ["match", ["get", "class"], ["path", "pedestrian"], true, false]
       ],
       "paint": {
-        "line-color": "#aaa",
+        "line-color": "#808080",
         "line-dasharray": [1, 0.75],
         "line-width": [
           "interpolate",
@@ -863,7 +863,6 @@
         true,
         false
       ],
-      "layout": { "visibility": "none" },
       "paint": { "fill-pattern": "pedestrian_polygon" }
     },
     {
@@ -1153,7 +1152,7 @@
       ],
       "layout": { "line-cap": "round", "line-join": "round" },
       "paint": {
-        "line-color": "#aaa",
+        "line-color": "#808080",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
