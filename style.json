@@ -682,7 +682,7 @@
       ],
       "layout": { "line-join": "round" },
       "paint": {
-        "line-color": "#423A2D",
+        "line-color": "#766043",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1221,7 +1221,7 @@
       ],
       "layout": { "line-cap": "round", "line-join": "round" },
       "paint": {
-        "line-color": "#aaa",
+        "line-color": "#808080",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1797,7 +1797,7 @@
       ],
       "layout": { "line-join": "round" },
       "paint": {
-        "line-color": "#aaa",
+        "line-color": "#808080",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -2346,8 +2346,8 @@
       },
       "paint": {
         "text-color": "hsl(30,23%,62%)",
-        "text-halo-color": "#f8f4f0",
-        "text-halo-width": 0
+        "text-halo-color": "#000",
+        "text-halo-width": 0.5
       }
     },
     {
