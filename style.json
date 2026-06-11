@@ -656,7 +656,7 @@
       ],
       "layout": { "line-join": "round" },
       "paint": {
-        "line-color": "#857965",
+        "line-color": "#808080",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
@@ -1743,7 +1743,7 @@
       ],
       "layout": { "line-join": "round" },
       "paint": {
-        "line-color": "#857965",
+        "line-color": "#808080",
         "line-width": [
           "interpolate",
           ["exponential", 1.2],
